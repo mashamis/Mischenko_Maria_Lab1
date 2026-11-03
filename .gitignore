@@ -45,7 +45,7 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-*.cover
+*.coverdata
 *.py.cover
 *.lcov
 .hypothesis/
@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data
+data/
